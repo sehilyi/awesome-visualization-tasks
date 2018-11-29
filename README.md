@@ -25,8 +25,8 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 - [What’s the Difference?: Evaluating Variants of Multi-Series Bar Charts for Visual Comparison Tasks](https://arjun010.github.io/static/papers/CHI-2018-BarDiff.pdf) - Six comparison tasks.
 
 ## Pie Charts
-- [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://scholar.google.co.kr/scholar?cluster=11475862794415010767&hl=ko&as_sdt=0,5&as_ylo=2014) - A experimental task for assessing judgement errors in pie chart variations
-- [Judgment Error in Pie Chart Variations](https://scholar.google.co.kr/scholar?cluster=2382954993842825221&hl=ko&as_sdt=0,5&as_ylo=2014) - A experimental task for assessing judgement errors in pie chart variations similar to [Judgment Error in Pie Chart Variations](#pie-charts)
+- [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://scholar.google.co.kr/scholar?cluster=11475862794415010767&hl=ko&as_sdt=0,5&as_ylo=2014) - An experimental task for assessing judgement errors in pie chart variations
+- [Judgment Error in Pie Chart Variations](https://scholar.google.co.kr/scholar?cluster=2382954993842825221&hl=ko&as_sdt=0,5&as_ylo=2014) - An experimental task for assessing judgement errors in pie chart variations similar to [Judgment Error in Pie Chart Variations](#pie-charts)
 
 ## Graph Visualizations
 
