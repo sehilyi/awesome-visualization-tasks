@@ -36,6 +36,7 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 
 - [AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets](https://scholar.google.co.kr/scholar?cluster=1768351414970616129&hl=ko&as_sdt=0,5) - Presented experimental tasks to evaluate three different tree visualizations: bracket understanding, pick understanding, and pick comparison.
 
+- [A Taxonomy of Visualization Tasks for the Analysis of Biological Pathway Data](https://scholar.google.co.kr/scholar?cluster=10865890749013473453&hl=ko&as_sdt=0,5) - Derived a taxonomy of biological pathway visualization tasks based on interviews with experts.
 
 ## Radial Visualizations
 - [Off the Radar: Comparative Evaluation of Radial Visualization Solutions for Composite Indicators](https://scholar.google.co.kr/scholar?cluster=3406282961457124810&hl=ko&as_sdt=0,5) - Developed 10 tasks (questions) for Radar Chart, Flower Chart, and Circle Chart.
