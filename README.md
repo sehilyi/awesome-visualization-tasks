@@ -13,6 +13,7 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 - [Radial Visualizations](#radial-visualizations)
 - [Coordinated Multiple Views](#coordinated-multiple-views)
 - [Visual Exploration Tools](#visual-exploration-tools)
+- [Comparative Visualizations](#comparative-visualizations)
 
 ## Scatterplots
 
@@ -46,3 +47,6 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 
 ## Visual Exploration Tools
 - [TouchPivot: Blending WIMP & Post-WIMP Interfaces for Data Exploration on Tablet Devices](http://hcil.snu.ac.kr/research/touchpivot) - Designed six tasks (questions) for the user study using TouchPivot, Tableau, and PivotTable of Microsoft Excel.
+
+## Comparative Visualizations
+- [Considerations for Visualizing Comparison](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf) [[slide]](http://graphics.cs.wisc.edu/Talks/Gleicher/2017/VisComp-given.pdf) - Comparison tasks can be categorized by *Action* and *Target*: *What is being compared?* and *what to do with relationships?*.
