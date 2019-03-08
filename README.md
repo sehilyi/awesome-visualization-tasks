@@ -6,6 +6,7 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 
 ## Table of contents
 
+- [General Visual Analytics](#general-visual-analytics)
 - [Scatterplots](#scatterplots)
 - [Bar Charts](#bar-charts)
 - [Pie Charts](#pie-charts)
@@ -14,6 +15,10 @@ A curated list of well-organized visualization analysis tasks which can be usefu
 - [Coordinated Multiple Views](#coordinated-multiple-views)
 - [Visual Exploration Tools](#visual-exploration-tools)
 - [Comparative Visualizations](#comparative-visualizations)
+
+## General Visual Analytics
+- [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf) - Ten low-level analysis tasks that largely capture people’s activities.
+- [Four types of ensemble coding in data visualizations](http://visualthinking.psych.northwestern.edu/publications/ensemble_coding_in_visualization_JOV_2015_szafir_haroz_gleicher_franconeri.pdf) - Divided tasks into four categories: identification of sets of values, summarization across those values, segmentation of collections, and estimation of structure.
 
 ## Scatterplots
 
